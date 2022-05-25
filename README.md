@@ -32,6 +32,14 @@
 
   5) Android 스튜디오 설정 마법사를 이용하여 설치
 
+**프로젝트 내 PyTorch 설치**
+
+```shell
+pip install torch==1.10.0 torchvision==0.11.1
+```
+
+
+
 
 
 ###### references
@@ -40,3 +48,6 @@
   - Github: **Android Demo Examples** [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app)
   - Tutorials: [pytorch.org/mobile](https://pytorch.org/mobile/home/)
     1. <a id="tutorial-1"></a>[PyTorch Mobile Runtime for Android](https://www.youtube.com/watch?v=5Lxuu16_28o)
+    2. <a id="tutorial-2"></a>[Quickstart with a HelloWorld Example](https://pytorch.org/mobile/android/)
+    3. <a id="tutorial-3"></a>[Object Detection with YOLOv5 on Android](https://github.com/pytorch/android-demo-app/tree/master/ObjectDetection)
+
